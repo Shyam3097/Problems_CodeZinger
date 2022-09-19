@@ -18,7 +18,7 @@ If it is not possible to find such an element then display -1.
 
     
 
-### where:
+### Where:
 
 - First line represents the number of elements in the array.
 - Second line represents the elements in the array.
