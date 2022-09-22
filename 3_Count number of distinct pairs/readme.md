@@ -2,7 +2,7 @@
 
 Given an array A of N positive integers, find the number of distinct pairs (A[i], A[j]) whose sum exists in the given array for all 0 ≤ i < j < N.
 
-### Note: 
+#### Note: 
 - While repeating pairs will not be counted again. And we can’t make a pair using the same elements again.
 - Eg : (2, 1) and (1, 2) will be considered as only one pair.
 
@@ -15,7 +15,7 @@ Given an array A of N positive integers, find the number of distinct pairs (A[i]
 ```
     
 
-### where:
+### Where:
 
 - First line represents the number of elements in the array
 - Second line represents the elements in the array.
