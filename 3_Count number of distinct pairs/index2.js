@@ -25,6 +25,7 @@ function solution (n, arr) {
         for (let j = i + 1; j < n; j++) {
             if (isEqual(mat[i], mat[j]) === true) {
                 flag = true;
+                break;
             }
         }
         if (flag === true) {
